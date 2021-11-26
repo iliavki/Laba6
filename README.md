@@ -54,4 +54,6 @@ nameView.setText(textViewText);
 5. Готово 
 
 Резульат работы 
-
+![Lab6 pic1](https://user-images.githubusercontent.com/91713589/143525876-ad179883-6b9b-4b2c-bc29-00f3e8db4d4b.jpeg)
+![Lab6 pic2](https://user-images.githubusercontent.com/91713589/143525882-53a4c94a-c8d0-4c84-b948-c97d58afa6e6.jpeg)
+![Lab6 pic3](https://user-images.githubusercontent.com/91713589/143525890-7f67a0fa-18da-423e-afbc-7cfcb55fabeb.jpeg)
